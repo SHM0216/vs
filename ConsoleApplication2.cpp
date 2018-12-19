@@ -11,7 +11,7 @@ int main()
 
 	printf("hi");
 	printf("hihi");
-	ddd
+	////printf("a");
 	printf("hihihi");
 }
 
