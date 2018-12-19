@@ -11,7 +11,7 @@ int main()
 
 	printf("hi");
 	printf("hihi");
-	////printf("a");
+	printf("a");
 	printf("hihihi");
 }
 
